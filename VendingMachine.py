@@ -24,6 +24,7 @@ class VendingMachine():
         ]
     
     def display_drink_choices(self):
+        print('Welcome to Justin Soo Vending Machine!')
         print('Drinks availability:')
         for index, choice in enumerate(self.drinks):
             print("{}. {} - RM {}".format(index+1, choice['drink_name'], choice['cost']))
