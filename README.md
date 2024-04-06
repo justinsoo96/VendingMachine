@@ -20,13 +20,13 @@ Drinks availability:
 1. 100 Plus - RM 3
 2. Milo - RM 4
 3. Redbull - RM 6
-4. 1664 Blanc - RM 10
-Please enter the number of the drink to purchase: 1
-Please insert your notes, enter 'Ok' when done: 1
-Total amount inserted: RM 1
-Please insert your notes, enter 'Ok' when done: 1
-Total amount inserted: RM 2
-Please insert your notes, enter 'Ok' when done: 1
-Total amount inserted: RM 3
-Please insert your notes, enter 'Ok' when done: ok
+4. 1664 Blanc - RM 10\
+Please enter the number of the drink to purchase: 1\
+Please insert your notes, enter 'Ok' when done: 1\
+Total amount inserted: RM 1\
+Please insert your notes, enter 'Ok' when done: 1\
+Total amount inserted: RM 2\
+Please insert your notes, enter 'Ok' when done: 1\
+Total amount inserted: RM 3\
+Please insert your notes, enter 'Ok' when done: ok\
 Your changes of: RM 0, enjoy your 100 Plus!
